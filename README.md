@@ -1,4 +1,4 @@
-Google Developer Group (Pretoria, SOuth Africa) Tech Talk Session 6-June-2014
+Google Developer Group (Pretoria, South Africa) Tech Talk Session 6-June-2014
 =======================
 
 This is the NodeJS+Sockjs Demonstrator which Ishmael Makitla presented at the Google Developer Group (Pretoria) Tech Talk Session.
